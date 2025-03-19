@@ -1,4 +1,7 @@
-### study-of-basic-gates
+## Name:Gajalakshmi V
+## Reg no:212223040047
+
+### Exp 1 - study-of-basic-gates
 
 **AIM:** 
 
@@ -66,24 +69,22 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming``
 
- ![Screenshot 2024-03-18 110336](https://github.com/hema-dharshini5/study-of-basic-gates/assets/147117728/9ece2e10-9645-4f11-94d1-cde69844eaff)
+ ![1 ex01](https://github.com/user-attachments/assets/7e561f52-3ed3-45f0-b26c-8ea0c283eea8)
 
  
-
- 
-**Logic symbol & Truthtable**
-![Screenshot 2024-03-18 112034](https://github.com/hema-dharshini5/study-of-basic-gates/assets/147117728/b80ff3a1-0515-4465-9628-e842706312d7)
+**Truthtable**
 
 
+![1](https://github.com/user-attachments/assets/3e171a2b-251e-46aa-a0c6-3a3a07ff67ec)
 
-**RTL realization Output:** 
-![Screenshot 2024-03-18 110415](https://github.com/hema-dharshini5/study-of-basic-gates/assets/147117728/e2786354-d878-477d-9df6-f2792d4a656f)
+**RTL:** 
 
 
+![2-ex01](https://github.com/user-attachments/assets/52a1c350-7a81-4eef-98bc-161153a904c0)
 
 **Output**:
-![Screenshot 2024-03-18 110550](https://github.com/hema-dharshini5/study-of-basic-gates/assets/147117728/e21d91ea-2560-4407-9d7f-87db25881d8e)
 
+![Screenshot 2025-03-19 132709](https://github.com/user-attachments/assets/c1edea65-d159-4200-a9d7-a71acba1a602)
 
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
