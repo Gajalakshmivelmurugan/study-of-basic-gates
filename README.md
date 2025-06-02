@@ -1,7 +1,7 @@
 ## Name:Gajalakshmi V
 ## Reg no:212223040047
 
-### Exp 1 - study-of-basic-gates
+### Exp 1 - study of basic gates
 
 **AIM:** 
 
